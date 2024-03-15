@@ -5,6 +5,7 @@ const styles = StyleSheet.create({
         flex: 1,    
         alignItems: 'center',
        
+       
     },
     ImageBackground: {
         justifyContent: 'center',
@@ -16,7 +17,8 @@ const styles = StyleSheet.create({
     login: {
         justifyContent: 'center',
         alignItems: 'center',
-        color: 'black,'
+        color: 'black'
+       
     },
     
 
